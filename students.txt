@@ -1,0 +1,10 @@
+S1,John,80,100,1,A1,Assignment1,90,100
+S2,Jane,75,100,1,A2,Assignment2,80,100
+S3,Mohan,85,100,1,A3,Assignment3,95,100
+S4,Alice,70,100,1,A4,Assignment4,85,100
+S5,Emily,90,100,1,A5,Assignment5,75,100
+S6,Michael,78,100,1,A6,Assignment6,88,100
+S7,Sarah,92,100,1,A7,Assignment7,82,100
+S8,David,87,100,1,A8,Assignment8,91,100
+S9,Sophia,83,100,1,A9,Assignment9,89,100
+S10,William,79,100,1,A10,Assignment10,86,100
